@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: tan;
+    width: 650px;
+    margin: 0 auto;
+    height: auto;
+    padding: 20px;
+}
+.header{
+    display: block;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    display: inline-block;
+    font-weight: bolder
+}
+img{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    background-color: white;
+}
+.blue{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: powderblue;
+    padding: 10px;
+    border: solid black 3px;
+}
+.pink{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    padding: 10px;
+    border: solid black 3px;
+}
